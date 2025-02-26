@@ -190,5 +190,6 @@ The microservice responds to requests with JSON data. Below is the structure of 
 
 The UML sequence diagram below illustrates the communication flow between the client (your program), the indexing microservice, and the data store (metadata.json).
 
+![UML SEQUENCE DIAGRAM](diagram.jpeg)
 
 
